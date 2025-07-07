@@ -1,0 +1,30 @@
+2025-07-07 12:50:26,710 - INFO - AZR Trading Bot initialized
+2025-07-07 12:50:26,726 - WARNING - PLACEHOLDER CREDENTIALS DETECTED
+2025-07-07 12:50:26,727 - WARNING - Bot will run in demo mode - no actual trading
+2025-07-07 12:50:26,760 - WARNING - Edit .azr_env with real KuCoin API credentials to enable trading
+2025-07-07 12:50:27,127 - INFO - Starting trading cycle - LIVE TRADING
+2025-07-07 12:50:27,355 - WARNING - LIVE TRADING MODE - REAL MONEY AT RISK
+2025-07-07 12:50:27,426 - ERROR - Error fetching balance: 'NoneType' object has no attribute 'fetch_balance'
+2025-07-07 12:50:27,471 - INFO - USDT balance: $0.00
+2025-07-07 12:50:27,554 - ERROR - Error getting top trading pairs: 'NoneType' object has no attribute 'fetch_tickers'
+2025-07-07 12:50:27,654 - WARNING - No trading pairs available
+2025-07-07 12:52:06,551 - INFO - AZR Trading Bot initialized
+2025-07-07 12:52:06,574 - WARNING - PLACEHOLDER CREDENTIALS DETECTED
+2025-07-07 12:52:06,576 - WARNING - Bot will run in demo mode - no actual trading
+2025-07-07 12:52:06,578 - WARNING - Edit .azr_env with real KuCoin API credentials to enable trading
+2025-07-07 12:52:06,591 - INFO - Starting trading cycle - LIVE TRADING
+2025-07-07 12:52:06,593 - WARNING - LIVE TRADING MODE - REAL MONEY AT RISK
+2025-07-07 12:52:06,598 - ERROR - Error fetching balance: 'NoneType' object has no attribute 'fetch_balance'
+2025-07-07 12:52:06,601 - INFO - USDT balance: $0.00
+2025-07-07 12:52:06,608 - ERROR - Error getting top trading pairs: 'NoneType' object has no attribute 'fetch_tickers'
+2025-07-07 12:52:06,614 - WARNING - No trading pairs available
+2025-07-07 13:01:32,712 - INFO - AZR Trading Bot initialized
+2025-07-07 13:01:32,716 - WARNING - PLACEHOLDER CREDENTIALS DETECTED
+2025-07-07 13:01:32,719 - WARNING - Bot will run in demo mode - no actual trading
+2025-07-07 13:01:32,722 - WARNING - Edit .azr_env with real KuCoin API credentials to enable trading
+2025-07-07 13:01:32,735 - INFO - Starting trading cycle - LIVE TRADING
+2025-07-07 13:01:32,737 - WARNING - LIVE TRADING MODE - REAL MONEY AT RISK
+2025-07-07 13:01:32,750 - ERROR - Error fetching balance: 'NoneType' object has no attribute 'fetch_balance'
+2025-07-07 13:01:32,753 - INFO - USDT balance: $0.00
+2025-07-07 13:01:32,754 - ERROR - Error getting top trading pairs: 'NoneType' object has no attribute 'fetch_tickers'
+2025-07-07 13:01:32,756 - WARNING - No trading pairs available

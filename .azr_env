@@ -1,0 +1,17 @@
+# KuCoin API Configuration
+# ⚠️ LIVE TRADING MODE - USE REAL API CREDENTIALS
+# Get these from: https://www.kucoin.com/account/api
+API_KEY=your_real_kucoin_api_key_here
+API_SECRET=your_real_kucoin_api_secret_here
+API_PASSPHRASE=your_real_kucoin_api_passphrase_here
+
+# Trading Configuration - CONSERVATIVE SETTINGS FOR LIVE TRADING
+MIN_TRADE_AMOUNT=10          # Minimum $10 per trade
+MAX_DUST_VALUE=1.0           # Consolidate amounts under $1
+TRADING_PAIRS_COUNT=5        # Reduced to 5 pairs for safety
+TRADING_CYCLE_MINUTES=10     # Increased to 10 minutes for safer operation
+MOMENTUM_THRESHOLD=0.15      # Higher threshold (0.15%) for more conservative trading
+
+# Environment - LIVE TRADING MODE ⚠️
+SANDBOX_MODE=false           # ⚠️ LIVE TRADING - REAL MONEY AT RISK
+LOG_LEVEL=INFO               # Detailed logging for monitoring

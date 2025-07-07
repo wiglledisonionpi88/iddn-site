@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start AZR Trading Bot",
+			"type": "shell",
+			"command": "C:/Python313/python.exe",
+			"args": [
+				"azr_trading_bot.py"
+			],
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
