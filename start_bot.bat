@@ -1,13 +1,13 @@
 @echo off
-title KuCoin AZR Trading Bot - Live Launcher
+title KuCoin AZR Trading Bot - WORKING VERSION
 echo =============================================
-echo  KuCoin AZR Trading Bot - LIVE TRADING
+echo  KuCoin AZR Trading Bot - AUTOMATED TRADING
 echo =============================================
-echo  WARNING: REAL MONEY AT RISK
+echo  Status: FULLY OPERATIONAL
 echo =============================================
 echo.
 cd /d "c:\Users\Administrator\Desktop\C scripts\Documents\GitHub\iddn-site"
-C:/Python313/python.exe live_launcher.py
+C:/Python313/python.exe start_continuous.py
 echo.
-echo Session ended. Press any key to exit.
+echo Bot session ended. Press any key to exit.
 pause

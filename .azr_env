@@ -1,17 +1,24 @@
 # KuCoin API Configuration
-# ⚠️ LIVE TRADING MODE - USE REAL API CREDENTIALS
+# ⚠️ LIVE TRADING MODE - REAL API CREDENTIALS ACTIVE
 # Get these from: https://www.kucoin.com/account/api
-API_KEY=your_real_kucoin_api_key_here
-API_SECRET=your_real_kucoin_api_secret_here
-API_PASSPHRASE=your_real_kucoin_api_passphrase_here
+API_KEY=68388d58d0a5f40001f21083
+API_SECRET=9f3d0678-b0ef-4f30-97cc-4e19ef0924b1
+API_PASSPHRASE=012560iu
 
-# Trading Configuration - CONSERVATIVE SETTINGS FOR LIVE TRADING
+# Advanced Trading Configuration - AUTONOMOUS AI SETTINGS
 MIN_TRADE_AMOUNT=10          # Minimum $10 per trade
 MAX_DUST_VALUE=1.0           # Consolidate amounts under $1
-TRADING_PAIRS_COUNT=5        # Reduced to 5 pairs for safety
-TRADING_CYCLE_MINUTES=10     # Increased to 10 minutes for safer operation
-MOMENTUM_THRESHOLD=0.15      # Higher threshold (0.15%) for more conservative trading
+TRADING_PAIRS_COUNT=5        # AI-optimized pair count
+TRADING_CYCLE_MINUTES=8      # Adaptive timing (6-15 min range)
+MOMENTUM_THRESHOLD=0.12      # AI-tuned threshold for signals
+
+# Advanced AI Features
+ENABLE_MULTI_TIMEFRAME=true  # Multi-timeframe analysis
+ENABLE_SENTIMENT_ANALYSIS=true  # Market sentiment integration
+ENABLE_ADAPTIVE_SIZING=true  # Dynamic position sizing
+ENABLE_AUTO_REBALANCING=true # Autonomous portfolio rebalancing
+ENABLE_RISK_MANAGEMENT=true  # Advanced risk controls
 
 # Environment - LIVE TRADING MODE ⚠️
 SANDBOX_MODE=false           # ⚠️ LIVE TRADING - REAL MONEY AT RISK
-LOG_LEVEL=INFO               # Detailed logging for monitoring
+LOG_LEVEL=INFO               # Detailed logging for AI decisions

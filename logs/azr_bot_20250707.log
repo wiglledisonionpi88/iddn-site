@@ -28,3 +28,15 @@
 2025-07-07 13:01:32,753 - INFO - USDT balance: $0.00
 2025-07-07 13:01:32,754 - ERROR - Error getting top trading pairs: 'NoneType' object has no attribute 'fetch_tickers'
 2025-07-07 13:01:32,756 - WARNING - No trading pairs available
+2025-07-07 13:03:07,670 - INFO - AZR Trading Bot initialized
+2025-07-07 13:03:07,682 - WARNING - PLACEHOLDER CREDENTIALS DETECTED
+2025-07-07 13:03:07,690 - WARNING - Bot will run in demo mode - no actual trading
+2025-07-07 13:03:07,705 - WARNING - Edit .azr_env with real KuCoin API credentials to enable trading
+2025-07-07 13:03:07,792 - INFO - Starting trading cycle - DEMO MODE
+2025-07-07 13:03:07,797 - INFO - DEMO MODE - No real trading, simulating
+2025-07-07 13:03:07,811 - INFO - USDT balance: $1000.00
+2025-07-07 13:03:07,826 - INFO - DEMO TRADE: BUY BTC/USDT - Cost: $200.00
+2025-07-07 13:03:07,991 - INFO - DEMO TRADE: SELL ETH/USDT - Cost: $200.00
+2025-07-07 13:03:08,105 - INFO - DEMO TRADE: BUY BNB/USDT - Cost: $200.00
+2025-07-07 13:03:08,230 - INFO - DEMO TRADE: SELL ADA/USDT - Cost: $200.00
+2025-07-07 13:03:08,499 - INFO - Cycle completed - Trades: 4, Duration: 0.7s
